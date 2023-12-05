@@ -39,4 +39,5 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
 ![Inked用户管理](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/06fa51b6-3db7-461d-8fbd-c5ff0ad2fd42)
 ![Inked管理员管理](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/ab09605d-5a8f-4978-a9d7-959bdf8147e8)
 源码获取：
-[NewsRecommendSystemOnline.zip](https://github.com/songwo-153/NewsRecommendOnline/files/11980675/NewsRecommendSystemOnline.zip)
+[Uploading 基于协同过滤算法的新闻推荐系统.zip…]()
+
