@@ -1,7 +1,7 @@
-# 基于协同过滤算法的个性化新闻推荐系统
-# Collaborative Filtering News Recommend System Online
- 基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户、物品的协同过滤推荐算法）
-Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**基于用户、物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
+# 基于协同过滤推荐算法的个性化新闻推荐系统
+# Collaborative Filtering News Recommend System 
+基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户和物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法，
+Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统，使用**基于用户和物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
 **开发工具**：IDEA，jdk1.8，Mysql8，navicat数据库管理工具，Tomcat。
 **后端使用**：SSM(Spring+SpringMVC+Mybatis)开发框架。
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
@@ -20,9 +20,11 @@ Java语言（SSM框架）实现协同过滤算法新闻推荐系统，使用**�
      推荐当前登录用户正在浏览的新闻相同类型下评分较高的新闻，同时推荐的是当前用户没有评分的新闻。
 **新闻数据来源**：爬取环球日报新闻数据
 **源码获取**： +v：18484646674   +QQ:2474345497
-**项目结果**
-![代码结构](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8feed5c9-352d-4bed-986c-f10f109bf761)
+**项目临时演示地址**：http://1.12.58.30/NewsRecommendOnline/
+**项目结构**
+![项目结构](https://img-blog.csdnimg.cn/direct/76890d003dd74430930e6835e44752a9.png#pic_center)
 ![数据库](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/e4dfeab7-f776-4e1e-a126-957baca47914)
+![数据库](https://gitee.com/ss-i-gg/CollaborativeFilteringNewsRecommendSystem/raw/main/%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%8E%A8%E8%8D%90.jpg)
 **前台系统**
 ![Inked首页](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8dfa903f-3a78-4a85-854c-f6d2ce6c6be5)
 ![Inked新闻查看](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/70bcd0e7-844c-49fd-89db-a2f448f56e64)
