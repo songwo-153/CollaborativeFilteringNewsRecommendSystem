@@ -26,10 +26,10 @@ Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统�
 **项目结构**
 ![项目结构](https://img-blog.csdnimg.cn/direct/76890d003dd74430930e6835e44752a9.png#pic_center)
 ![数据库](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/e4dfeab7-f776-4e1e-a126-957baca47914)
-![数据库](https://gitee.com/ss-i-gg/CollaborativeFilteringNewsRecommendSystem/raw/main/%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E6%8E%A8%E8%8D%90.jpg)
+
 **前台系统**
-![Inked首页](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/8dfa903f-3a78-4a85-854c-f6d2ce6c6be5)
-![Inked新闻查看](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/70bcd0e7-844c-49fd-89db-a2f448f56e64)
+![首页](https://github.com/user-attachments/assets/3551bc7c-9580-41db-803e-5cb49bd511d0)
+![详情查看](https://github.com/user-attachments/assets/a3d30f76-179b-4db7-b6ea-4aea2e9614db)
 ![登录](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/cfce9455-8ac7-40fa-b0c6-906ccc5e8c49)
 ![登录选择喜好标签](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/3ac79cf4-fcdb-47dc-90bd-4fb2bb17d2d0)
 ![Inked个人中心](https://github.com/songwo-153/NewsRecommendOnline/assets/86769062/eae37196-e3f7-4526-80db-56c951a7a449)
