@@ -43,6 +43,8 @@ Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统�
 **协同过滤算法推荐结果运行图**
 ![01基于用户推荐](https://github.com/user-attachments/assets/cc20b39f-0f62-465e-b619-a55222973e23)
 ![基于物品的推荐](https://github.com/user-attachments/assets/4b472d86-ad77-4c65-a511-2d4557f692b3)
+**新闻数据爬虫：**
+![Pythom爬取环球网新闻数据](https://github.com/user-attachments/assets/3459dcfc-8a05-40e6-949f-68e1b94db271)
 
 **源码获取**：[基于协同过滤算法新闻推荐系统源码.zip](https://github.com/songwo-153/CollaborativeFilteringNewsRecommendSystem/files/13557079/default.zip)
 
