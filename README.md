@@ -3,14 +3,14 @@
 基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户和物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法，
 Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统，使用**基于用户和物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
 
-## 项目在线演示地址：
-[前台演示地址（用谷歌浏览器）：http://124.71.65.53:8081/NewsRecommendOnline/](http://124.71.65.53:8081/NewsRecommendOnline/)      
+## 智能新闻推荐系统项目在线演示地址：
+[前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
   
-[后台演示地址（用谷歌浏览器）：http://124.71.65.53:8081/NewsRecommendOnline/admin/login](http://124.71.65.53:8081/NewsRecommendOnline/admin/login)    
+[后台演示地址（用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)    
 
-[第二个新闻推荐前台演示地址：http://124.71.65.53:8090/WebNewsRecommendSystem/](http://124.71.65.53:8090/WebNewsRecommendSystem/)    
+[第二个新闻推荐前台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/)    
 
-[第二个新闻推荐后台演示地址：http://124.71.65.53:8090/WebNewsRecommendSystem/admin/login](http://124.71.65.53:8090/WebNewsRecommendSystem/admin/login)     
+[第二个新闻推荐后台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
 
 **源码获取**：点我头像进入我的主页在资源栏目下查找或者下方链接
 [https://download.csdn.net/download/weixin_46115961/88599510](https://download.csdn.net/download/weixin_46115961/88599510)
