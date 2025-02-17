@@ -1,7 +1,7 @@
 # 基于协同过滤推荐算法的个性化新闻推荐系统
 # Collaborative Filtering News Recommend System 
-基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的SSM框架实现基于用户和物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法，
-Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统，使用**基于用户和物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
+基于协同过滤算法的个性化新闻推荐系统的设计与实现（采用Java语言的**SpringBoot和SSM两种框架**分别实现基于用户和物品的协同过滤推荐算法）实现了UserCF和ItemCF的协同过滤推荐算法，
+Java语言（SpringBoot和SSM框架两种可选）实现协同过滤算法的个性化新闻推荐系统，使用**基于用户和物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
 
 ## 智能新闻推荐系统项目在线演示地址：
 [前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
@@ -26,7 +26,7 @@ Java语言（SSM框架）实现协同过滤算法的个性化新闻推荐系统�
 
 **开发工具**：IDEA，jdk1.8，Mysql8，navicat数据库管理工具，Tomcat。
 
-**后端使用**：SSM(Spring+SpringMVC+Mybatis)开发框架。
+**后端使用**：SpringBoot和SSM(Spring+SpringMVC+Mybatis)两种开发框架实现（可选）。
 
 **前端使用**：javascript脚本，jquery脚本，用户端使用bootstrap前端框架，管理员端使用layui前端框架，layer弹窗组件等。
 
